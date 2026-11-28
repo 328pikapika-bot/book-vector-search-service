@@ -35,3 +35,7 @@ Python、Milvus、MySQL、embedding 模型及相应运行时；模型文件按�
 ## 项目名称
 
 统一名称为“图书向量化检索服务”，对应图书正文清洗、语义切片、向量化、过滤检索及维护 API。英文名称为 Book Vector Search Service，仓库路径为 `book-vector-search-service`。早期知识图谱和 Web 资产作为演进历史保留。
+
+## 2026-11-28 来源纳入与运行边界
+
+旧知识库工程已保存在 `源码/发现来源/book-historical-web/`，供追溯 Java/Web 历史。当前图书向量服务仍在 `源码/05_编码/skwx_ai-python/social_sciences_vector/`；两者没有在本轮组成一套已运行系统，旧Web源码未扩大公开范围。

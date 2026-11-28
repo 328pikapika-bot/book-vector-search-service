@@ -68,3 +68,6 @@ USER.md
 
 !.env.example
 !.env.template
+
+# Newly attached historical sources stay local until separately reviewed.
+/源码/发现来源/
